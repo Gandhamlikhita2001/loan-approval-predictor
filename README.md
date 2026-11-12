@@ -19,3 +19,4 @@ A Machine Learning project that predicts loan approval status.
 pip install -r requirements.txt
 
 streamlit run main.py
+this project includes loan approval using machine learning.
